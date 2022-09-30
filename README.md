@@ -14,6 +14,10 @@ Users should be able to:
 
 ![screenshot](./images/screenshot.png "screenshot")
 
+### Links
+
+- Live Site URL: [click here](https://birthday-reminder-react-component.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
