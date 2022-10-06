@@ -1,11 +1,6 @@
 import React from "react";
 
-export default function List({ persons }) {
-  function deletePerson(id) {
-    const newPeople = persons.filter((person) => person.id !== id);
-    persons = [...newPeople];
-  }
-
+export default function List({ persons, deletePerson }) {
   return (
     <>
       {persons.map((person) => {
